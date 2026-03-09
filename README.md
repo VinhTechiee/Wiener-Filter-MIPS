@@ -225,10 +225,3 @@ This project demonstrates:
 
 ---
 
-## Authors
-
-**Phuong Xuong Thinh**  
-Ho Chi Minh City University of Technology  
-
-**Le Hien Vinh**  
-Ho Chi Minh City University of Technology
